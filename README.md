@@ -1,6 +1,11 @@
 # Crosshair Studio Pro 🎯
 
-> **Crosshair Studio Pro** is a modern, ultra-sleek, multi-language desktop Crosshair Overlay & Configurator built with Python and PySide6. Designed with **Emil Kowalski Design Engineering** principles for high performance and clean aesthetics.
+![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![Framework](https://img.shields.io/badge/Framework-PySide6-green?logo=qt)
+![License](https://img.shields.io/badge/License-MIT-purple)
+![Developer](https://img.shields.io/badge/Developer-Mustafa%20Mutlu-blueviolet)
+
+> **Crosshair Studio Pro** is a modern, ultra-sleek, multi-language desktop Crosshair Overlay & Configurator built with Python and PySide6. Designed with **Design Engineering** principles for high performance, zero-latency desktop click-through, and clean aesthetics.
 
 **Developed by:** Mustafa Mutlu
 
@@ -53,7 +58,7 @@ python main.py
 
 ---
 
-## 💻 Building an Executable (Optional)
+## 💻 Building an Executable (.exe)
 
 To package Crosshair Studio Pro as a standalone `.exe` using PyInstaller:
 
