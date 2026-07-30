@@ -6,68 +6,32 @@ __pycache__/
 # C extensions
 *.so
 
-# Distribution / packaging
+# Distribution / packaging / PyInstaller
 build/
-devel/
 dist/
-downloads/
-ebin/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# PyInstaller
-*.manifest
 *.spec
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+# Agent, Tooling & Internal Development files (Hidden from users/GitHub)
+.agents/
+.claude/
+.gemini/
+skills-lock.json
+watch_review.sh
+review.md
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py.cover
-.hypothesis/
-.pytest_cache/
-cover/
+# IDE & OS generated files
+.vscode/
+.idea/
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
 
 # Environments
 .env
 .venv
 env/
 venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Agent / Tooling files
-.claude/
-.gemini/
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
 
 # User data
 custom_presets.json
