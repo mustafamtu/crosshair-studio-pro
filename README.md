@@ -70,7 +70,3 @@ The compiled binary will be saved in the `dist/` directory.
 
 ---
 
-## 📄 License & Credits
-
-Created by **Mustafa Mutlu**.
-Crafted with PySide6 & Design Engineering principles.
